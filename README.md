@@ -46,4 +46,10 @@ Create your first native phone/device application using React Native, tapping in
 - Well thought through UX
   - Be considerate of individuals that primarily use their thumbs, left or right hands
 
+## Credits
+
+- [Junyoung Son](https://github.com/Junyoungson808)
+
+## UML/Screenshot
+
 ![lab41](./assets/lab41.jpeg)
